@@ -1,0 +1,29 @@
+_repo: La-donna-nella-vita-e-nelle-opere-di-Giacomo-Leopardi_60092
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Boghen Conigliani, Emma
+    aliases:
+    - Conigliani, Emma Boghen
+    - Boghen-Conigliani, Emma
+    birthdate: 1868
+    deathdate: 1956
+    gutenberg_agent_id: '50788'
+    url: http://www.gutenberg.org/2009/agents/50788
+    wikipedia: https://it.wikipedia.org/wiki/Emma_Boghen_Conigliani
+description: ''
+gutenberg_bookshelf: IT Letteratura
+gutenberg_issued: '2019-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60092'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Leopardi, Giacomo, 1798-1837'
+- !lcc 'PQ'
+- GITenberg
+title: La donna nella vita e nelle opere di Giacomo Leopardi
+url: http://www.gutenberg.org/ebooks/60092
